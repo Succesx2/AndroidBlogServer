@@ -2,20 +2,20 @@
     {
             id = 1,
             title = "State Management in compose 1",
-            thumbnailUrl = "",
-            contentUrl = ""
+            thumbnailUrl = "https://raw.githubusercontent.com/Succesx2/AndroidBlogServer/refs/heads/main/images/adadadxdxdx.png",
+            contentUrl = "https://raw.githubusercontent.com/Succesx2/AndroidBlogServer/refs/heads/main/blogs/blog1"
   },
  {
             id = 2,
             title = "State Management in compose 2",
-            thumbnailUrl = "",
-            contentUrl = ""
+            thumbnailUrl = "https://raw.githubusercontent.com/Succesx2/AndroidBlogServer/refs/heads/main/images/metric360image.png",
+            contentUrl = "https://raw.githubusercontent.com/Succesx2/AndroidBlogServer/refs/heads/main/blogs/blog2"
   },
   {
             id = 3,
             title = "State Management in compose 3",
-            thumbnailUrl = "",
-            contentUrl = ""
+            thumbnailUrl = "https://raw.githubusercontent.com/Succesx2/AndroidBlogServer/refs/heads/main/images/qdas.jpg",
+            contentUrl = "https://raw.githubusercontent.com/Succesx2/AndroidBlogServer/refs/heads/main/blogs/blog3"
   },
 
 ]
